@@ -1,0 +1,24 @@
+{
+  "name": "anything.css",
+  "version": "1.0.0",
+  "description": "A CSS stylesheet that contains anything.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rabrennie/anything.css.git"
+  },
+  "author": "everyone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rabrennie/anything.css/issues"
+  },
+  "homepage": "https://github.com/Rabrennie/anything.css#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.3.2"
+  }
+}
