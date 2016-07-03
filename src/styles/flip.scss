@@ -1,0 +1,11 @@
+// The spiritual successor of https://github.com/Rabrennie/anything.js/blob/master/src/flipText.js
+
+.flipped
+{
+    @include transform(scaleY(-1));
+}
+
+.mirrored
+{
+    @include transform(scaleX(-1));
+}
