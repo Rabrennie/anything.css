@@ -1,0 +1,8 @@
+language: node_js
+node_js:
+  - "6"
+before_script:
+  - npm install -g gulp
+after_success:
+  - gulp build
+  - sh ./deploy.sh
