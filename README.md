@@ -4,6 +4,11 @@
 
 # CONFIRMED
 
+## Temporary Playground
+Use [this codepen](https://codepen.io/TheBITLINK/pen/JKNgxN?editors=1000) to test Δ.css, it always uses the latest version on the master branch.
+
+When we get a site set up (if we do), a proper playground will be set up (like the one in [anythingjs.io](http://anythingjs.io/playground.html)).
+
 # Rules
 1. Nothing that'll crash a web page.
 1. Can't violate GitHub terms of service.
