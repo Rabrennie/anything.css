@@ -15,3 +15,13 @@ When we get a site set up (if we do), a proper playground will be set up (like t
 1. Don't be an asshole.
   1. Nothing malicious.  
   1. Deleting stuff that doesn't need to be.
+
+# Contributing
+1. Fork ( https://github.com/Rabrennie/anything.css/fork )
+1. Clone ( git clone https://github.com/YourUsername/anything.css.git )
+1. Branch ( git checkout -b your-feature )
+2. Make a new file in ./src/styles with a relevant name. ( name.scss )
+1. Edit ( Type! Type! Type! )
+1. Push ( git push -u origin your-feature )
+1. Pull Request ( https://help.github.com/articles/using-pull-requests/ )
+1. Fire up another branch and add yourself to the [contributors list](CONTRIBUTORS.md), to congratulate yourself for your work :).
