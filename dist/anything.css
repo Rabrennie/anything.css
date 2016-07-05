@@ -15,5 +15,5 @@
   -webkit-transform: scaleX(-1);
   transform: scaleX(-1); }
 
-.wow {
+.wow:after {
   content: "WOW"; }
