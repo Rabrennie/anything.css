@@ -1,4 +1,5 @@
 # anything.css
+![](https://raw.githubusercontent.com/Rabrennie/anything.css/master/icon.png)
 
 [![Join the chat at https://gitter.im/Rabrennie/anything.css](https://badges.gitter.im/Rabrennie/anything.css.svg)](https://gitter.im/Rabrennie/anything.css?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.org/Rabrennie/anything.css.svg?branch=master)](https://travis-ci.org/Rabrennie/anything.css)
 
