@@ -1,3 +1,5 @@
+
+
 [![Join the chat at https://gitter.im/Rabrennie/anything.css](https://badges.gitter.im/Rabrennie/anything.css.svg)](https://gitter.im/Rabrennie/anything.css?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.org/Rabrennie/anything.css.svg?branch=master)](https://travis-ci.org/Rabrennie/anything.css)
 
 <p align="center"><img src="https://raw.githubusercontent.com/Rabrennie/anything.css/master/icon.png" alt="Logo"></p>
@@ -26,3 +28,5 @@ When we get a site set up (if we do), a proper playground will be set up (like t
 1. Push ( git push -u origin your-feature )
 1. Pull Request ( https://help.github.com/articles/using-pull-requests/ )
 1. Fire up another branch and add yourself to the [contributors list](CONTRIBUTORS.md), to congratulate yourself for your work :).
+
+![Tag](http://i.imgur.com/etWLNKJ.gif) ![Tag](http://i.imgur.com/c4J95hH.gif) ![Tag](http://i.imgur.com/Sl7UbNI.gif) ![Tag](http://i.imgur.com/xaoeuKp.gif)
