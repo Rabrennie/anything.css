@@ -2,6 +2,8 @@
 
 [![Join the chat at https://gitter.im/Rabrennie/anything.css](https://badges.gitter.im/Rabrennie/anything.css.svg)](https://gitter.im/Rabrennie/anything.css?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.org/Rabrennie/anything.css.svg?branch=master)](https://travis-ci.org/Rabrennie/anything.css)
 
+Δ.CSS is a CSS Framework that accepts almost any pull request (as long as it follows the rules).
+
 ## Temporary Playground
 Use [this codepen](https://codepen.io/TheBITLINK/pen/JKNgxN?editors=1000) to test Δ.css, it always uses the latest version on the master branch.
 
