@@ -1,3 +1,15 @@
+.col-6-xs:after {
+  content: "0.6"; }
+
+.col-6-sm:after {
+  content: "6"; }
+
+.col-6-md:after {
+  content: "66"; }
+
+.col-6-lg:after {
+  content: "666"; }
+
 .comicsans {
   font-family: "Comic Sans MS", "Comic Sans", cursive; }
 
