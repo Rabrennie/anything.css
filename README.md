@@ -21,6 +21,7 @@ When we get a site set up (if we do), a proper playground will be set up (like t
 1. Clone ( git clone https://github.com/YourUsername/anything.css.git )
 1. Branch ( git checkout -b your-feature )
 2. Make a new file in ./src/styles with a relevant name. ( name.scss )
+  1. if you're making a new mixin etc. put it in ./src/constants with a relevant name (name.scss)
 1. Edit ( Type! Type! Type! )
 1. Push ( git push -u origin your-feature )
 1. Pull Request ( https://help.github.com/articles/using-pull-requests/ )
