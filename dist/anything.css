@@ -42,3 +42,18 @@
 
 .wow:after {
   content: "WOW"; }
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+h1 {
+  position: relative;
+  top: 200px;
+  animation: spin 0.3s infinite linear;
+}
