@@ -7,7 +7,7 @@ In no particular order, the contributors to anything.css are:
 * Rabrennie
 * tr3nx
 * gytdau
-* theBITLINK
+* TheBITLINK
 * gitter-badger
 * cheezgi
 * SwadicalRag
