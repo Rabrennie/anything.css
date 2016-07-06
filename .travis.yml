@@ -3,6 +3,7 @@ node_js:
   - "6"
 before_script:
   - npm install -g gulp
-after_success:
+script:
   - gulp build
+deploy:
   - sh ./deploy.sh
