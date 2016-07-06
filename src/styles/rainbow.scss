@@ -1,0 +1,6 @@
+.rainbow {
+    color: white!important;
+    background: -moz-linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet);
+    background: -webkit-linear-gradient(left, red, orange, yellow, green, blue, indigo, violet);
+    background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+}
