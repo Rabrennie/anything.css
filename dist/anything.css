@@ -27,5 +27,18 @@
   -webkit-transform: scaleX(-1);
   transform: scaleX(-1); }
 
+.rainbow {
+  background: yellow;
+  /* Safari and Google Chrome */
+  background: -webkit-linear-gradient(top, red, orange, yellow, green, blue, indigo, violet);
+  /* Firefox */
+  background: -moz-linear-gradient(top, red, orange, yellow, green, blue, indigo, violet);
+  /* Opera */
+  background: -o-linear-gradient(top, red, orange, yellow, green, blue, indigo, violet);
+  /* Internet Explorer */
+  background: -ms-linear-gradient(top, red, orange, yellow, green, blue, indigo, violet);
+  /* W3C Standard */
+  background: linear-gradient(to bottom, red, orange, yellow, green, blue, indigo, violet); }
+
 .wow:after {
   content: "WOW"; }
