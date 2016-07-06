@@ -10,7 +10,7 @@
 .col-6-lg:after {
   content: "666"; }
 
-.comicsans {
+body {
   font-family: "Comic Sans MS", "Comic Sans", cursive; }
 
 .flipped {
