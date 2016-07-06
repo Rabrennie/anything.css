@@ -10,3 +10,4 @@ In no particular order, the contributors to anything.css are:
 * theBITLINK
 * gitter-badger
 * cheezgi
+* SwadicalRag
