@@ -10,9 +10,6 @@
 .col-6-lg:after {
   content: "666"; }
 
-body {
-  font-family: "Comic Sans MS", "Comic Sans", cursive; }
-
 .flipped {
   -moz-transform: scaleY(-1);
   -o-transform: scaleY(-1);
@@ -26,6 +23,12 @@ body {
   -ms-transform: scaleX(-1);
   -webkit-transform: scaleX(-1);
   transform: scaleX(-1); }
+
+* {
+  font-family: "Comic Sans MS", "Comic Sans", cursive !important; }
+
+*.comic-sans {
+  font-family: "Comic Sans MS", "Comic Sans", cursive !important; }
 
 .rainbow {
   background: yellow;
