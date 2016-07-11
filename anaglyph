@@ -1,0 +1,9 @@
+.anaglyph {
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  color: rgb(51, 51, 51);
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  text-shadow: -3px 0 1px rgb(30,242,241) , 3px 0 1px rgb(246,5,10) ;
+}
