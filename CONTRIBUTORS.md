@@ -11,3 +11,4 @@ In no particular order, the contributors to anything.css are:
 * gitter-badger
 * cheezgi
 * SwadicalRag
+* minajevs
