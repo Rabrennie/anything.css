@@ -7,10 +7,9 @@ var concat = require('gulp-concat');
 var sassError = require('gulp-sass-error').gulpSassError;
 
 gulp.task('build', function() {
-    gulp.src('src/**/*.scss')
-    .pipe(concat('anything.scss'))
-    .pipe(sass().on('error', sassError(true)))
-    .pipe(gulp.dest('./dist/'));
+       gulp.src('src/anything.scss')
+            .pipe(sass().on('error', sass.logError))
+            .pipe(gulp.dest('./dist/'))
 });
 
 gulp.task('default',function() {
