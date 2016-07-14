@@ -34,10 +34,10 @@
   transform: scaleX(-1); }
 
 * {
-  font-family: "Comic Sans MS", "Comic Sans", cursive !important; }
+  font-family: "Comic Sans MS", "Comic Sans", Papyrus, Zapfino, "Brush Script MT", "Brush Script", "Brush Script STD", "Bradley Hand", "Monotype Corsiva", Corsiva, "Lucida Calligraphy", "Lucida Handwriting", cursive, Arial !important; }
 
 *.comic-sans {
-  font-family: "Comic Sans MS", "Comic Sans", cursive !important; }
+  font-family: "Comic Sans MS", "Comic Sans", Papyrus, Zapfino, "Brush Script MT", "Brush Script", "Brush Script STD", "Bradley Hand", "Monotype Corsiva", Corsiva, "Lucida Calligraphy", "Lucida Handwriting", cursive, Arial !important; }
 
 .rainbow {
   background: yellow;
