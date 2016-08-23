@@ -1,3 +1,4 @@
+@charset "UTF-8";
 .anaglyph {
   -webkit-box-sizing: content-box;
   -moz-box-sizing: content-box;
@@ -62,6 +63,10 @@ h1 {
   position: relative;
   top: 200px;
   animation: spin 0.3s infinite linear; }
+
+.triforce::before {
+  content: "▲\A▲▲";
+  white-space: pre; }
 
 .wow:after {
   content: "WOW"; }
